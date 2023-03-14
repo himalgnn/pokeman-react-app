@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/pokeman-react-app/static/css/main.1a60559f.css",
-    "main.js": "/pokeman-react-app/static/js/main.aa6be586.js",
+    "main.js": "/pokeman-react-app/static/js/main.73726af8.js",
     "static/js/787.0f181382.chunk.js": "/pokeman-react-app/static/js/787.0f181382.chunk.js",
     "static/media/load.gif": "/pokeman-react-app/static/media/load.fce58b4fa843b57c0764.gif",
     "index.html": "/pokeman-react-app/index.html",
     "main.1a60559f.css.map": "/pokeman-react-app/static/css/main.1a60559f.css.map",
-    "main.aa6be586.js.map": "/pokeman-react-app/static/js/main.aa6be586.js.map",
+    "main.73726af8.js.map": "/pokeman-react-app/static/js/main.73726af8.js.map",
     "787.0f181382.chunk.js.map": "/pokeman-react-app/static/js/787.0f181382.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1a60559f.css",
-    "static/js/main.aa6be586.js"
+    "static/js/main.73726af8.js"
   ]
 }
